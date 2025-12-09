@@ -1,5 +1,5 @@
 import React from 'react';
-import MatrixRain from './MatrixRain';
+import MatrixRain from './components/MatrixRain';
 import './App.css';
 
 function App() {
